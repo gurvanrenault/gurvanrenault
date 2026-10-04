@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Gurvan Renault 👋
 
-<!--
-**gurvanrenault/gurvanrenault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer · Cybersecurity · AI
 
-Here are some ideas to get you started:
+📍 Rennes, France 🇫🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software, explore cybersecurity, and experiment with AI agents and developer tools.
+
+🛠️ Stack
+
+Java · Python · JavaScript · Spring Boot · FastAPI · Docker · Redis
+
+🔭 Interests
+🤖 AI Agents & MCP
+🏗️ Software Architecture
+🔐 Cybersecurity & Ethical Hacking
+⚙️ Developer Tools & Automation
+
+🧠 Fun fact
+
+I'm probably going to over-engineer a simple idea,
+turn it into an experiment, break it, and call it research.
+
+gurvan_renault.exe is always running. 🧪
